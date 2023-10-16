@@ -1,0 +1,10 @@
+br/com/eduardaperboire/todolist/TodolistApplication.class
+br/com/eduardaperboire/todolist/utils/Utils.class
+br/com/eduardaperboire/todolist/user/UserModel.class
+br/com/eduardaperboire/todolist/task/TaskController.class
+br/com/eduardaperboire/todolist/task/ITaskRepository.class
+br/com/eduardaperboire/todolist/task/TaskModel.class
+br/com/eduardaperboire/todolist/user/IUserRepository.class
+br/com/eduardaperboire/todolist/user/UserController.class
+br/com/eduardaperboire/todolist/filter/FilterTaskAuth.class
+br/com/eduardaperboire/todolist/errors/ExceptionHandlerController.class

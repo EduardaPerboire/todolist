@@ -1,0 +1,10 @@
+/home/eduarda/Downloads/todolist/src/main/java/br/com/eduardaperboire/todolist/errors/ExceptionHandlerController.java
+/home/eduarda/Downloads/todolist/src/main/java/br/com/eduardaperboire/todolist/user/IUserRepository.java
+/home/eduarda/Downloads/todolist/src/main/java/br/com/eduardaperboire/todolist/TodolistApplication.java
+/home/eduarda/Downloads/todolist/src/main/java/br/com/eduardaperboire/todolist/utils/Utils.java
+/home/eduarda/Downloads/todolist/src/main/java/br/com/eduardaperboire/todolist/task/ITaskRepository.java
+/home/eduarda/Downloads/todolist/src/main/java/br/com/eduardaperboire/todolist/task/TaskModel.java
+/home/eduarda/Downloads/todolist/src/main/java/br/com/eduardaperboire/todolist/task/TaskController.java
+/home/eduarda/Downloads/todolist/src/main/java/br/com/eduardaperboire/todolist/filter/FilterTaskAuth.java
+/home/eduarda/Downloads/todolist/src/main/java/br/com/eduardaperboire/todolist/user/UserModel.java
+/home/eduarda/Downloads/todolist/src/main/java/br/com/eduardaperboire/todolist/user/UserController.java
